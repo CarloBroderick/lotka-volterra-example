@@ -1,5 +1,5 @@
 ---
-title: "Lotka-Volterra Example"
+title: "Lotka-Volterra Example Change"
 subtitle: "Numerical approximations"
 output: html_document
 ---
